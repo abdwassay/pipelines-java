@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Az-400-LessonVideo/pipelinesjava/_apis/build/status%2Fabdwassay.pipelines-java?branchName=master)](https://dev.azure.com/Az-400-LessonVideo/pipelinesjava/_build/latest?definitionId=24&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
