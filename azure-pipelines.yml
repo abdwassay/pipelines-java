@@ -22,7 +22,7 @@ steps:
       goals: 'package'
       
   # task to publish code coverage results
-  - task: PublishCodeCoverageResults@1
+  - task: PublishCodeCoverageResults@2
     inputs:
       codeCoverageTool: "JaCoCo"
       summaryFileLocation: "$(System.DefaultWorkingDirectory)/**/site/jacoco/jacoco.xml"
