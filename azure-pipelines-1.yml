@@ -9,7 +9,7 @@ trigger:
 pool: Default
 
 
-container: mydockerimage:v3
+container: mcr.microsoft.com/dotnet/aspnet:8.0
 
 steps:
 - script: set
