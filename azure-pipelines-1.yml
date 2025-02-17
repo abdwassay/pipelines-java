@@ -6,8 +6,8 @@
 trigger:
 - master
 
-pool: 
-  vmImage: 'windows-NT'
+pool: Default
+
 
 container: mcr.microsoft.com/windows/servercore:ltsc2019
 
