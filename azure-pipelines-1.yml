@@ -9,7 +9,7 @@ trigger:
 pool: Default
 
 
-container: mcr.microsoft.com/windows/windows:latest
+container: mcr.microsoft.com/windows
 
 steps:
 - script: set
