@@ -9,7 +9,7 @@ trigger:
 pool: Default
 
 
-container: mcr.microsoft.com/dotnet/aspnet:8.0
+container: openjdk:17-jdk-alpine
 
 steps:
 - script: set
