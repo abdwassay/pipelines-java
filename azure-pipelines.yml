@@ -11,8 +11,8 @@ parameters:
   type: boolean
   default: false
 
-trigger:
-- master
+trigger: none
+# master
 
 pool: Default 
 
